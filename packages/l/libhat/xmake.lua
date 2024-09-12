@@ -3,8 +3,7 @@ package("libhat")
 
     set_urls("https://github.com/wellwhz/libhat.git")
 
-    add_versions("2024.4.16", "e71b7d4b97141faf9fb77c3507d353412cc90c34")
-    add_versions("2024.8.10", "f4755aea0987e77c0f6f496c49eb9cd08d5f5a06")
+    add_versions("2024.4.16", "dddd183d458679f94b7e6e0f798a9101eb2b2130")
 
     add_deps("cmake")
 
