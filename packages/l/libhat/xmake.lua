@@ -1,7 +1,7 @@
 package("libhat")
     set_description("A modern, high-performance library for C++20 designed around game hacking")
 
-    set_urls("https://github.com/BasedInc/libhat.git")
+    set_urls("https://github.com/wellwhz/libhat.git")
 
     add_versions("2024.8.10", "f4755aea0987e77c0f6f496c49eb9cd08d5f5a06")
 
